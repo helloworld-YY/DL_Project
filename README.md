@@ -1,3 +1,3 @@
 # DL_Project
-This is my personal learning list of code training, following the course by Mu Li. 
-Following me to learn deeplearning
+Here is my personal learning list of DL code training, following the course by Mu Li. 
+Following me to learn deeplearning.
